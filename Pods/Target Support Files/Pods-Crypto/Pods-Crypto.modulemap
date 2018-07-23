@@ -1,0 +1,6 @@
+module Pods_Crypto [system] {
+  umbrella header "Pods-Crypto-umbrella.h"
+
+  export *
+  module * { export * }
+}
